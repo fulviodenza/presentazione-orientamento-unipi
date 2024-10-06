@@ -137,6 +137,7 @@ Vi darà gli strumenti necessari per comprendere e modellare il mondo digitale c
 Ricordate che ci saranno difficoltà che non andranno prese come fonte di scoraggiamento bensì come opportunità per migliorarvi. 
 Se davvero vi piacerà quello che farete, con la giusta costanza raggiungerete ogni obiettivo.
 
+Infine
 Vi auguro di trovare la vostra strada, e di godervi ogni istante di questo viaggio, 
 
-Benvenuti a Pisa e in bocca al lupo per il vostro futuro.
+Benvenuti al corso di studi di Informatica di Pisa e in bocca al lupo per il vostro futuro.
