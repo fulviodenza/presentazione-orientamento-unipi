@@ -115,7 +115,7 @@ Oggi mi capita di continuo su linkedin di vedere ex-colleghi dell'università di
 
 Non vi capiterà solo di scrivere codice (cosa che ChatGPT fa, seppur mediocremente) ma anche lavorare su infrastrutture, su architetture software, sviluppo di progetti da 0 con tanto di business plan. Sarete capaci di portare a termine i vostri task con la conoscenza collettiva che saprete essere su internet, se saprete come cercare.
 
-Con informatica (e, secondo la mia esperienza, in particolare informatica a Pisa) non sei solo programmatore sei una mente pensante che può svolgere ogni tipo di mansione in ogni tipo di ambito.
+Con informatica (e, secondo la mia esperienza, in particolare informatica a Pisa) non sei solo programmatore sei una mente pensante che può svolgere ogni tipo di mansione nell'ambito dell'informatica (e qualche volta anche fuori dall'informatica).
 
 ## Conviene studiare informatica anche dopo l'avvento di ChatGPT?
 
