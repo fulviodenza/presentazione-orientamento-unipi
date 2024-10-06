@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World! [A.A. 2025/2026]
 
 Sono Fulvio Denza, 
 
@@ -25,11 +25,11 @@ Ho iniziato abbastanza precocemente, avevo ancora cifra singola di anni quando h
 
 Al tempo ne andavo fierissimo, oggi un po' meno, la grafica è quella che è, se qualcuno lo presentasse come sito a un colloquio non credo che avrebbe molte chances.
 
-Quando arrivò per me, come per voi ora, il momento della scelta, non ebbi molte difficoltà, visto che sapevo esattamente che informatica sarebbe stata la mia scelta, mi trovavo a Perugia in quel periodo, e scelsi Pisa perchè al tempo lessi che Pisa è stata uno dei centri storici per l'informatica italiana e tuttora ha un altissimo livello di ricerca.
-Ha contribuito allo sviluppo CEP, la calcolatrice elettronica pisana;
-È stato attivato il primo nodo della rete internet in Italia;
+Quando arrivò per me, come per voi ora, il momento della scelta, non ebbi molte difficoltà, visto che sapevo esattamente che informatica sarebbe stata la mia scelta, mi trovavo a Perugia in quel periodo, e scelsi Pisa perchè al tempo lessi che Pisa è stata uno dei centri storici per l'informatica italiana e tuttora ha un altissimo livello di ricerca:
+- Ha contribuito allo sviluppo della CEP, la calcolatrice elettronica pisana;
+- È stato attivato il primo nodo della rete internet in Italia;
 
-ma non si vive solo del passato, e infatti ancora oggi ci sono professori incredibilmente bravi e livello di ricerca altissimo che vi potranno garantire un ambiente stimolante e un'insegnamento di alta qualità.
+Ma non si vive solo del passato, e infatti ancora oggi ci sono professori incredibilmente bravi e livello di ricerca altissimo che vi potranno garantire un ambiente stimolante e un'insegnamento di alta qualità.
 
 # Terrore per la matematica?
 
@@ -52,7 +52,7 @@ Questa per intenderci.
 
 Solo con meno sorrisi, perchè siete a informatica e la gente è più sudata.
 
-Vivere l'università significa anche creare legami, condividere esperienze e crescere insieme
+Vivere l'università significa anche creare legami, condividere esperienze e crescere insieme:
 - lunghe pause caffè alle macchinette
 - piazza delle Vettovaglie (che forse già conoscerete)
 - i migliori anni della vostra vita
@@ -75,13 +75,35 @@ nonchè bot telegram per condividere il menù della mensa.
 
 # Rappresentanza
 
-Voglio anche fare un excursus sulla rappresentanza, credo ne valga la pena.
-Farlo è un onore ed un onere
-L'esperienza da rappresentante non è solo un modo per connettervi con praticamente la maggior parte degli
+Voglio anche fare un piccolo excursus sulla rappresentanza, credo ne valga la pena.
+Farlo è un onore ed un onere, devi investire energie per farlo, parlare con gli studenti, capire i problemi e provare
+a trovare una soluzione creando un punto di connessione tra gli studenti e i professori.
+
+Farlo mi ha dato la possibilità di conoscere i professori anche sotto una luce differente da quella di professore.
+
+Durante la mia esperienza abbiamo lavorato insieme per riformare il corso di laurea per rendere gli esami più gestibili dagli studenti
+senza perdere la qualità di ciò che si insegnava, ognuno porta democraticamente le proprie esperienze, dai professori con più esperienza
+fino ai rappresentanti degli studenti, che portano il loro punto di vista e per fare da guida ai professori su quali sono i sentimenti
+generali degli studenti su una determinata riforma.
+
+L'esperienza da rappresentante non è solo un modo per connettervi con praticamente la maggior parte degli studenti che un domani potrebbero essere vostri datori di lavoro, collaboratori o anche amici, ma anche
+un'altra occasione per crescere e iniziare a modellare la vostra carriera e affinare le vostre abilità relazionali.
+
+# Continuous Learning
+
+l'informatica è innovazione, quindi
+> ✨bisogna stare al passo con i tempi✨
+
+Ma cosa significa questo?
+Significa studiare, anche quando credete che avete finito.
+
+Non studiate solo sui libri, ma anche sui fatti, anche da studenti, anche se penserete "ah no questa idea è troppo difficile da realizzare", provateci, alla peggio avrete fatto esperienza su uno studio di fattibilità.
+Fate progetti con le tecnologie che imparate all'università o da soli.
+Da lavoratori, still, progetti, non c'è via di scampo, per migliorare dovrete scrivere codice e lavorare su architetture, questo lo raggiungerete solo con l'esperienza, che otterrete con progetti, tenendo sempre un occhio di riguardo alla vostra salute mentale e, seppur con costanza, non facendolo ogni giorno, c'è il rischio di burnout. Vi assicuro che non è una bella esperienza.
 
 # Sbocchi lavorativi
 
-Il momento che più aspettavate.
+Il momento che più aspettavate:
 
 È vero che con una laurea in informatica si trova uno sfracello di lavoro? 
 TL;DR: Si, e se sei specializzato in qualcosa di richiesto dal mercato, verrai anche pagato uno sfracello.
@@ -89,24 +111,32 @@ TL;DR: Si, e se sei specializzato in qualcosa di richiesto dal mercato, verrai a
 Tutto sta nel trovare il proprio campo di interesse
 Ci sono amici specializzati in blockchain, altri in AI, io per esempio mi sono specializzato in cloud e sistemi distribuiti.
 
+Oggi mi capita di continuo su linkedin di vedere ex-colleghi dell'università di Pisa in tantissime aziende sparse in tutto il mondo: Google, Facebook, Texas Instruments e anche piccole startup di successo o grandi realtà nel settore (Hashicorp, Canonical, SUSE e altre).
+
+Non vi capiterà solo di scrivere codice (cosa che ChatGPT fa, seppur mediocremente) ma anche lavorare su infrastrutture, su architetture software, sviluppo di progetti da 0 con tanto di business plan. Sarete capaci di portare a termine i vostri task con la conoscenza collettiva che saprete essere su internet, se saprete come cercare.
+
+Con informatica (e, secondo la mia esperienza, in particolare informatica a Pisa) non sei solo programmatore sei una mente pensante che può svolgere ogni tipo di mansione in ogni tipo di ambito.
+
 ## Conviene studiare informatica anche dopo l'avvento di ChatGPT?
 
 Short Answer: Con cosa è fatto ChatGPT? `:)` 
 
-Con informatica (e, secondo la mia esperienza, in particolare informatica a Pisa) non sei solo programmatore sei una mente pensante che può svolgere ogni tipo di mansione in ogni tipo di ambito.
-Oggi mi capita di continuo su linkedin di vedere ex-colleghi dell'università di Pisa in tantissime aziende sparse in tutto il mondo: Google, Facebook, Texas Instruments e anche piccole startup.
-Non vi capiterà solo di scrivere codice (cosa che ChatGPT fa, seppur mediocremente) ma anche lavorare su infrastrutture, su architetture software, sviluppo di progetti da 0 con tanto di business plan. Sarete capaci di portare a termine i vostri task con la conoscenza collettiva che saprete essere su internet, se saprete come cercare.
-
 # Communities!
 
 Informatica a Pisa e ricca di communities in cui si può crescere professionalmente e umanamente
+
+- pisa.dev: Fanno talks avanzati su argomenti interessantissimi.
+- GDG (Google developer group) di Pisa: Un gruppo di sviluppatori interessati a tecnologie Google che fanno eventi e talks.
+- Pointer Podcast: Un podcast creato da studenti di Pisa e che viene ascoltato da moltissime tech people in Italia.
 
 # Conclusioni
 
 Insomma, informatica è un percorso che vi garantirà una grande crescita personale e professionale.
 Vi darà gli strumenti necessari per comprendere e modellare il mondo digitale che è sempre più in espansione.
 
-Ricordate che ci saranno difficoltà che non andranno prese come fonte di scoraggiamento bensì come opportunità per migliorarvi. Se davvero vi piacerà quello che farete, con la giusta costanza raggiungerete ogni obiettivo.
+Ricordate che ci saranno difficoltà che non andranno prese come fonte di scoraggiamento bensì come opportunità per migliorarvi. 
+Se davvero vi piacerà quello che farete, con la giusta costanza raggiungerete ogni obiettivo.
+
 Vi auguro di trovare la vostra strada, e di godervi ogni istante di questo viaggio, 
 
 Benvenuti a Pisa e in bocca al lupo per il vostro futuro.
