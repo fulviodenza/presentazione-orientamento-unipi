@@ -84,7 +84,7 @@ Farlo mi ha dato la possibilità di conoscere i professori anche sotto una luce 
 Durante la mia esperienza abbiamo lavorato insieme per riformare il corso di laurea per rendere gli esami più gestibili dagli studenti
 senza perdere la qualità di ciò che si insegnava, ognuno porta democraticamente le proprie esperienze, dai professori con più esperienza
 fino ai rappresentanti degli studenti, che portano il loro punto di vista e per fare da guida ai professori su quali sono i sentimenti
-generali degli studenti su una determinata riforma.
+generali degli studenti su una determinata proposta fatta in consiglio di dipartimento.
 
 L'esperienza da rappresentante non è solo un modo per connettervi con praticamente la maggior parte degli studenti che un domani potrebbero essere vostri datori di lavoro, collaboratori o anche amici, ma anche
 un'altra occasione per crescere e iniziare a modellare la vostra carriera e affinare le vostre abilità relazionali.
